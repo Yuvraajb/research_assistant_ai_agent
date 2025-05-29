@@ -5,3 +5,5 @@ langchain-google-genai
 python-dotenv
 pydantic
 duckduckgo-search
+Flask
+gunicorn # Often useful for production WSGI server
